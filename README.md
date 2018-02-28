@@ -1,4 +1,4 @@
-# SML_CV
+# Supervised Machine Learning + Enhanced sampling
 Using supervised machine learning to build collective variables for accelerated sampling
 
 This repo contains the necessary details for reproducing the results from our manuscript:
