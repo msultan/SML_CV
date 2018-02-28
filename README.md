@@ -1,6 +1,8 @@
 # Supervised Machine Learning + Enhanced sampling
 Using supervised machine learning to build starting collective variables for accelerated sampling
 
+![SVM boundary](https://github.com/msultan/SML_CV/blob/master/chignolin_example/chig_online.gif)
+
 This project is designed to answer the following question: Given sampling in state A and state B, how does one go about picking some collective variable capable of going between them via an ennhanced sampling framework. We argue that the decision function from any differentiable supervised machine learning algorithm represents a good starting CV. This repo contains the necessary details for reproducing the results from our manuscript showing that :
 
 Sultan et al: Decision functions from supervised machine learning algorithms as collective
